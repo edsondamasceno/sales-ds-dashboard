@@ -51,6 +51,7 @@ streamlit run app.py
 
 ## ⭐ Estrutura do projeto
 
+```
 sales-ds-dashboard/
 │
 ├── app.py
@@ -71,4 +72,4 @@ sales-ds-dashboard/
 │   ├── KPIs.png
 │   ├── Vendas_por_Pais.png
 |   ├── Segmentacao.png
-|   ├──Previsao.png
+|   ├── Previsao.png
